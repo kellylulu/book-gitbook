@@ -7,5 +7,10 @@
 		"theme-default": {
 			"showLevel": true
 		}
-	}
+	},
+	"links": {
+        "sidebar": {
+            "项目首页": "https://github.com/kellylulu/book-gitbook"
+        }
+    }
 }
